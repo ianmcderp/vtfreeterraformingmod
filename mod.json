@@ -1,4 +1,5 @@
 ﻿{
     "Title" : "Free Terraforming Mod",
-    "Description" : "Terraform your world for no money."
+    "Description" : "Terraform your world for no money.",
+    "Tags": [ "Utils" ]
 }
